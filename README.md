@@ -8,3 +8,15 @@
 
 ### [**projects**](https://github.com/KangJunewoo/ComputerGraphics/tree/master/projects) (중간고사 ~ 기말고사)
 콜백 + 모델링을 활용한 프로젝트 과제들
+
+
+## 주요 스크린샷
+
+### [ObjectModeling - 탁자와 3개물체](https://github.com/KangJunewoo/ComputerGraphics/tree/master/projects/objectmodeling-탁자와3개물체.cpp)
+<img src='https://github.com/KangJunewoo/ComputerGraphics/blob/master/projects/img/table.png?raw=true'>
+
+### [ModelView - 안드로이드로봇](https://github.com/KangJunewoo/ComputerGraphics/tree/master/projects/modelview-안드로이드로봇.cpp)
+<img src='https://github.com/KangJunewoo/ComputerGraphics/blob/master/projects/img/android.png?raw=true'>
+
+### [final - 졸라맨](https://github.com/KangJunewoo/ComputerGraphics/tree/master/projects/final-졸라맨.cpp)
+<img src='https://github.com/KangJunewoo/ComputerGraphics/blob/master/projects/img/zolaman.png?raw=true'>
